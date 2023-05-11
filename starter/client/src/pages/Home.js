@@ -6,6 +6,7 @@ const Home = () => {
   const [isLoaded, setIsLoaded] = useState(false);
   const [thoughts, setThoughts] = useState([]);
 
+
   return (
     <main>
       <div className="flex-row justify-space-between">
