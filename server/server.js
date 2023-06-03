@@ -1,8 +1,8 @@
+const userRoutes = require('./routes/user-routes');
+const imageRoutes = require('./routes/image-upload'); // add this file import to the top of the file
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3001;
-const userRoutes = require('./routes/user-routes');
-const imageRoutes = require('./routes/image-upload'); // add this file import to the top of the file
 
 // express middleware, used to be bodyparser
 app.use(express.json());
