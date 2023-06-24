@@ -16,8 +16,11 @@ const ThoughtForm = () => {
     const postImage = async () => {
       try {
         const res = await fetch("/api/image-upload", {
-          mode: "cors",
+          mode: "no-cors",
           method: "POST",
+          // headers: {
+          //   'Access-Control-Allow-Origin':'*'
+          // },
           body: data,
         });
         if (!res.ok) throw new Error(res.statusText);
