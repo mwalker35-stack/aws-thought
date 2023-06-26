@@ -5,7 +5,7 @@ const AWS = require('aws-sdk');
 const paramsConfig = require('../utils/params-config');
 
 const storage = multer.memoryStorage({
-    destination: function(res, file, callback) {
+    destination: function(req, file, callback) {
         callback(null, '');
     }
 });
