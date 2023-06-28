@@ -1,4 +1,5 @@
 # Deep Thoughts
+https://bit.ly/3JBuMfn
   ![Github license](https://img.shields.io/badge/license-GNUv3.0-green.svg)
   ## Table of Contents:
   *[Description](#Description)
