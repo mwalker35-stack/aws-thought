@@ -3,7 +3,7 @@
   ## Table of Contents:
   *[Description](#Description)
 
-  *[Installation](#Installation)
+  *[Technologies](#Technologies)
 
   *[Usage](#Usage)
 
@@ -18,7 +18,7 @@
   ## Description: 
   Allows users to post their thoughts. A message board of thoughts.  
 
-  ## Installation:
+  ## Technologies:
   It uses MongoDB, Express.js, React, and Node.js which makes it a MERN application. Amazon Web Services, NGINX, Multer, UUID, AWS-SDK, pm2
 
   ## Usage:
