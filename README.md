@@ -36,6 +36,4 @@ https://bit.ly/3JBuMfn
   ## Questions:
   If you have questions please Email: marcustwalker921@gmail.com<br />
   See: GitHub:  (https://github.com/mwalker35-stack)
-  ![alt text](client/src/Images/Screenshot%20deep%20thoughts.png)<br />
-  ![alt text](client/src/Images/Screenshot%20marcus%20thoughts.png)<br />
-  ![alt text](client/src/Images/Screenshot%20steph%20curry.png)<br />
+![alt text](client/src/Images/Screenshot%202%20deep%20thoughts%20cats.png)<br />
